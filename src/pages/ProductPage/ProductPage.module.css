@@ -1,0 +1,43 @@
+.main {
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+}
+
+.exit {
+    background-color: #e5e5e5;
+    color: #0009EA;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 4px;
+    align-self: start;
+}
+
+.product {
+    display: flex;
+    gap: 80px;
+}
+
+.product__img img {
+    height: 500px;
+    width: 500px;
+}
+
+.product__about {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.product__name {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.product__price {
+    font-size: 26px;
+    color: #0009EA;
+    font-weight: 500;
+}

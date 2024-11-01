@@ -1,0 +1,9 @@
+.search {
+    padding: 10px 20px;
+    border: 2px solid #0009EA;
+    color: #0009EA;
+    border-radius: 4px;
+    min-width: 200px;
+    outline: none;
+    align-self: start;
+}
